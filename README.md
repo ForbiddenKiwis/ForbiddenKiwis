@@ -1,10 +1,7 @@
 # ForbiddenKiwis
 **`Digital Detective (Game Developer/Web Developer/Software Developer)`**
-- 👋 Console.WriteLine("Hi, I’m @ForbiddenKiwis");
-- 👀 System.out.println("I’m interested in Videogames");
-- 🌱 print("I’m currently learning python and java") 
-- 💞️ DBMS_OUTPUT.PUT_LINE("I’m looking to collaborate on creating the ideal video game and effecient systems");
-- 📫 How to reach me Linkedin (https://ca.linkedin.com/in/jerwinson-flores-cunanan-b340b2239)
+
+I'm an indie backend developer specialize in web applicatoin, software development and game developer here to show my worth in the digital world. All coding projects are derived form m6y school homeworks, projects and some personal projects such as [My First RPG Game](https://github.com/ForbiddenKiwis/First-2D-RPG-Game), and [Simpple Idle Cliker game](https://github.com/ForbiddenKiwis/Idle-Clicker-game).
 
 <!---
 ForbiddenKiwis/ForbiddenKiwis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
