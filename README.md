@@ -1,5 +1,5 @@
 # ForbiddenKiwis
-**'Digital Detective (Game Developer/Web Developer/Software Developer)'**
+**`Digital Detective (Game Developer/Web Developer/Software Developer)`**
 - 👋 Console.WriteLine("Hi, I’m @ForbiddenKiwis");
 - 👀 System.out.println("I’m interested in Videogames");
 - 🌱 print("I’m currently learning python and java") 
