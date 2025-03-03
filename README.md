@@ -28,7 +28,7 @@ I'm an indie backend developer specialize in web applicatoin, software developme
 
 
 ### 📊Stats
-![ForbiddenKiwis Github stats](https://github-readme-stats.vercel.app/api?username=ForbiddenKiwis&show_icons=true&theme=chatreuse-dark)
+![ForbiddenKiwis Github stats](https://github-readme-stats.vercel.app/api?username=ForbiddenKiwis&show_icons=true&theme=chartreuse-dark)
  
 <br />  
 
