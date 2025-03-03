@@ -35,8 +35,8 @@ I'm an indie backend developer specialize in web applicatoin, software developme
 
 #
 ### 📊Stats
-<img alt="ForbiddenKiwis Github Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ForbiddenKiwis&show_icons=true&theme=chartreuse-dark"/>
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForbiddenKiwis&layout=compact&theme=chartreuse-dark"/>
+<img alt="ForbiddenKiwis Github Stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ForbiddenKiwis&show_icons=true&theme=chartreuse-dark"/>
+<img alt="top langs" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForbiddenKiwis&layout=compact&theme=chartreuse-dark"/>
 
  
 <br />  
